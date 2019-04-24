@@ -1,2 +1,0 @@
-# TZ-ROZ
-educational task
